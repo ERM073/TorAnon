@@ -1,0 +1,2 @@
+ExcludeNodes SlowServer,{jp},{gb},{us},{ca},{au},{nz},{al},{am},{be},{bg},{hr},{cy},{dk},{ee},{fi},{fr},{de},{gr},{hu},{is},{ie},{it},{lt},{mk},{lu},{mt},{md},{nl},{no},{pl},{pt},{ro},{si},{za},{es},	{se},{ch},{ua}
+StrictNodes 1
